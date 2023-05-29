@@ -1,3 +1,8 @@
+# Crop Doctor Main Service
+## 작물 질병 진단 인공지능 모델 
+![image](https://github.com/ai6-crop-doctor/AI/assets/72302404/cf02844a-06a2-439e-9634-bd7a91a808e8)
+
+
 # AI
 
 ## Project Start

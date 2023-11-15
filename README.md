@@ -3,6 +3,8 @@
 ![image](https://github.com/ai6-crop-doctor/AI/assets/72302404/cf02844a-06a2-439e-9634-bd7a91a808e8)
 
 
+#### 시연 영상
+![image](2.메인.gif)
 
 
 ## Project Start
